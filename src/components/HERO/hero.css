@@ -1,0 +1,7 @@
+.hero-text{
+    transition: text-distortion;
+}
+
+@keyframes text-distortion {
+    
+}
