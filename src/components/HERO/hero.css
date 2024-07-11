@@ -7,10 +7,14 @@
     height: 100vh;
 }
 
+.no-scroll {
+    overflow: hidden;
+  }
+  
 
 .text{
     /* transform: translateY(30px); */
-    color: #D6FF00;
+    /* color: #D6FF00; */
     clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
 }
 .char {

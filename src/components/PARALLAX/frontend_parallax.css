@@ -1,0 +1,24 @@
+
+
+.tab1{
+    border: black 2px dashed;
+    background-color: transparent;
+    backdrop-filter: blur(20px);
+    background-image: linear-gradient(
+        120deg,
+        rgba(255,255,255,0.3),
+        rgba(0,0,0,0.2)
+    );
+}
+
+.tab2{
+    border: black 2px dashed;
+    background-color: transparent;
+    backdrop-filter: blur(20px);
+    background-image: linear-gradient(
+        120deg,
+        rgba(0,0,0,0.2),
+        rgba(255,255,255,0.3)
+    );
+   
+}

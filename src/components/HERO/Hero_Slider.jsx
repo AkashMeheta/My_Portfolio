@@ -19,6 +19,7 @@ const Hero_Slider = () => {
     hidden: {
       y: 100,
       opacity: 0.5,
+     
     },
     visible: {
       y: 0,
@@ -27,7 +28,7 @@ const Hero_Slider = () => {
     silde: {
       y: -window.innerHeight,
     },
-    snapEffect: {},
+   
   };
 
   return (

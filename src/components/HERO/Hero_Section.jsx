@@ -18,7 +18,7 @@ const Hero_Section = () => {
           </div>
           <div class="hero-div sec-b font-oswald">
             <div class="main-text">
-              HELLO, MYSELF{" "}
+              HELLO, I AM{" "}
               <span class="">
                 <i class=" smily fa-regular fa-face-smile"></i>
               </span>
@@ -26,7 +26,7 @@ const Hero_Section = () => {
             <div class="main-text">
               AKASH MEHETA{" "}
               <span>
-                <i class="arrow fa-solid fa-arrow-right"></i>
+              <i class="fa-sharp fa-solid fa-arrow-right fa-flip"></i>
               </span>{" "}
               I'M A CREATIVE
             </div>
