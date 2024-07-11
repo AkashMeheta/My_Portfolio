@@ -1,16 +1,18 @@
-import React from 'react'
-import './hero.css'
+import React from "react";
+import { Hero_Slider, Hero_Section } from "../../index";
+
+import "./hero.css";
+
 const Hero = () => {
   return (
     <>
-      <div className='mb-9  h-[700px] mx-auto relative'>
-        <div className=' hero-text font-oswald text-[15rem] text-gray-200 absolute top-[200px] left-[81.5px]'>
-          AKASH MEHETA
-        </div>
+      <div className="hero-div  relative w-full h-full">
+        <Hero_Slider></Hero_Slider>
+        <Hero_Section></Hero_Section>
       </div>
-
+      
     </>
-  )
-}
+  );
+};
 
-export default Hero
+export default Hero;

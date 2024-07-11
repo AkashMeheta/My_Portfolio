@@ -1,12 +1,12 @@
+
 #root {
-  max-width: 1580px;
+  width: 100%;
   margin: 0 auto;
-  padding: 2rem;
   text-align: center;
-  color: whitesmoke
+ 
 }
 body{
-  
-  background-color: #28282B ;
+  background-color:#EDE8E4 ;
+ 
 }
 
