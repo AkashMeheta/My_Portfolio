@@ -24,11 +24,12 @@ function App() {
 
   return (
     <>
-      <div className='min-h-screen relative'>
+      <div className='min-h-screen relative '>
       
       <Navbar></Navbar>
         <Hero></Hero>
         <Frontend_Parallax></Frontend_Parallax>
+        <About_ME></About_ME>
       </div>
      
       {/*<Tech_Stack></Tech_Stack>

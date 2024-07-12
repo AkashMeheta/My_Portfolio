@@ -12,7 +12,7 @@ const Hero_Section = () => {
             </div>
             <div class="right-child">
               <h3>KOLKATA</h3>
-              <h3>CREATIVE</h3>
+              <h3>PASSION</h3>
             </div>
             <div></div>
           </div>
@@ -28,7 +28,7 @@ const Hero_Section = () => {
               <span>
               <i class="fa-sharp fa-solid fa-arrow-right fa-flip"></i>
               </span>{" "}
-              I'M A CREATIVE
+              A CREATIVE
             </div>
             <div class="main-text">
               FULL-STACK{" "}
@@ -61,7 +61,7 @@ const Hero_Section = () => {
               <h3>Linkdin</h3>
               <h3>Github</h3>
             </div>
-            <div class="scroll-down">
+            <div class="scroll-down hidden md:block">
               <div>Scroll Down</div>
               <div>
                 <i class="fa-solid fa-arrow-down"></i>

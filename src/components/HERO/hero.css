@@ -9,7 +9,7 @@
 
 .no-scroll {
     overflow: hidden;
-  }
+}
   
 
 .text{
@@ -28,6 +28,7 @@
     background-color: #EDE8E4;
     width: 100%;
     min-height: 100vh;
+   
 }
 .bottle{
     min-height: 100vh;
@@ -44,7 +45,7 @@
 /* sec a */
 .sec-a{
     display: flex;
-    margin-top: 4%;
+    margin-top: 6%;
     justify-content: space-between;
     flex-wrap: wrap;
     height: 10%;
@@ -71,12 +72,12 @@
     flex-direction: column;
     /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
     font-weight: 400;
-    margin-top: 5vw;
-    margin-bottom: 2vw;
+    margin-top: 3vw;
+    margin-bottom: 1.2vw;
 }
 
 .main-text{
-    font-size: 4vw;
+    font-size: 4.5vw;
 }
 
 .smily{
@@ -136,7 +137,7 @@
 
 /* sec c */
 .sec-c{
-    margin-bottom: 2vw;
+    margin-bottom: 1vw;
 }
 .sub-text{
     max-width: 80%;
@@ -166,6 +167,8 @@
     width: 20%;
     display: flex;
     justify-content: space-around;
+    flex-wrap: wrap;
+    
 }
 .bg-black{
     background-color: black;
@@ -184,12 +187,14 @@
    display: flex;
    margin-top: 6vw;
    justify-content: space-between;
+   flex-wrap: wrap;
 }
 
 .social-handels{
     display: flex;
     justify-content: space-between;
     width: 20%;
+    flex-wrap: wrap;
 }
 .scroll-down{
     width: 20%;
@@ -206,4 +211,5 @@
     font-weight: 400;
     display: flex;
     justify-content: flex-end;
+    flex-wrap: wrap;
 }

@@ -1,0 +1,35 @@
+.about {
+    font-size: 10vw;
+    font-weight: 700;
+}
+
+p{
+    font-size: 1vw;
+}
+
+.Continuous{
+    top: 10%;
+    left: -13%;
+}
+
+ .Communication{
+    top: 10%;
+    left: 50%;
+} 
+
+.Adaptability{
+    bottom: 2%;
+    left: 40%;
+}
+
+.Teamworker{
+    transform: rotate(90deg);
+    bottom: 25%;
+    right: -10%;
+}
+
+.scroll-down{
+    font-size: 1vw;
+    bottom: -40%;
+    left: 45%;
+}
