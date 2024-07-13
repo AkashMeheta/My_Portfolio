@@ -33,7 +33,7 @@ const Hero_Slider = () => {
 
   return (
     <motion.div
-      className="custom-h z-50 absolute flex justify-center items-center w-full bg-[#28282B]"
+      className="custom-h z-[52] absolute flex justify-center items-center w-full bg-[#28282B]"
       initial={sliderVarients.visible}
       animate={sliderVarients.silde}
       transition={{ duration: 1, ease: easeInOut, delay: 3.2 }}

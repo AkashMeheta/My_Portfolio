@@ -51,8 +51,8 @@ const Hero_Section = () => {
           </div>
           <div class="hero-div sec-d font-pp_Neue_Montreal">
             <div class="button-div">
-              <button class="button bg-black">Contact Me</button>
-              <button class="button bg-white">Check My Resume</button>
+              <button class="button bg-black z-[51] hover:bg-white hover:text-black hover:font-bold" >Contact Me</button>
+              <button class="button bg-white z-[51] hover:bg-black hover:text-white hover:font-bold">Check My Resume</button>
             </div>
           </div>
           <div class="hero-div sec-e font-inconsolata">
